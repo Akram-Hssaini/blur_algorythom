@@ -1,11 +1,11 @@
 
 
-#Requirements
+Requirements
   - pygame
   - time
   - os
 
-#How to run
+How to run
 
 - Process Visualizer (process visualizer.py):
   Just run the file and type in the blur value.
